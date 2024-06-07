@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="expense_types">
+        <item>Еда</item>
+        <item>Транспорт</item>
+        <item>Переводы</item>
+        <item>Аренда</item>
+        <item>Другое</item>
+    </array>
+</resources>

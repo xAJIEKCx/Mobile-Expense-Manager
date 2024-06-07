@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Финансовый менеджер</string>
+    <string name="action_settings">Настройки</string>
+    <string name="add_new_expense">Добавить новый расход</string>
+    <string name="amount">Сумма</string>
+    <string name="add_expense">Добавить расходы</string>
+    <string name="todays_expenses">Расходы за сегодня</string>
+    <string name="current_week_expenses">Расходы за неделю</string>
+    <string name="total_expense">Общий расход - </string>
+    <string name="rupee_sym">₽</string>
+    <string name="expense_add_successfully">Расход успешно добавлен..</string>
+    <string name="amount_empty_error">Сумма не может быть пустой!!</string>
+    <string name="current_months_expenses">Расходы за месяц</string>
+    <string name="add_new_category">Добавить новую категорию</string>
+    <string name="category">Категория</string>
+    <string name="add_category">Добавить категорию</string>
+    <string name="action_add_category">Добавить категорию</string>
+    <string name="category_empty_error">Категория не может быть пустой!!</string>
+    <string name="add_category_success">Категория успешно добавлена..</string>
+    <string name="change_balance">Изменить баланс</string>
+    <string name="balance">Ваш баланс: </string>
+    <string name="Add_balance">Введите баланс</string>
+
+    <array name="drawer_items">
+        <item>На главную</item>
+        <item>Эта неделя</item>
+        <item>Этот месяц</item>
+    </array>
+    <string name="title_activity_balance">BalanceActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
